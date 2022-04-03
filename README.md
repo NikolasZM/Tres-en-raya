@@ -7,7 +7,7 @@ Aqui puedes Jugar al tres en raya con tus amigos :D
   <li>Bianca Díaz Villamil</li>
 </ul>
 <h2>¿Qué usamos?</h2>
-<p>Para que el codigo usamos "IF - ELIF - ELSE" y "WHILE"</p>
+<p>Para que el codigo funcione usamos "IF - ELIF - ELSE" y "WHILE"</p>
 <h2>¿Comó funciona?</h2>
 <p>Lo que primero que hicimos fue declarar variables y colocamos todos los valores de los espacios en un array despues creamos varias condicionales para poder seleccionar las casillas por turnos</p>
 <h2>¿Comó usar?</h2>
